@@ -1,0 +1,46 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Questrial&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="menu.css">
+  <link rel="stylesheet" href="style.css">
+  <title>Produtos</title>
+</head>
+<body>
+
+  <div class="menu-wrap">
+    <input type="checkbox" class="toggler">
+    <div class="hamburger"><div></div></div>
+    <div class="menu">
+      <div>
+        <div>
+            <ul>
+                <li><a href="#"><i class="fas fa-sliders-h"></i>ALIMENTOS</a></li>
+                <li><a href="#"><i class="fas fa-sliders-h"></i>BEBIDAS EM GERAL</a></li>
+                <li><a href="#"><i class="fas fa-sliders-h"></i>FRUTAS E HORTALIÇAS</a></li>
+                <li><a href="#"><i class="fas fa-sliders-h"></i>MASSAS</a></li>
+                <li><a href="#"><i class="fas fa-sliders-h"></i>LATARIA E CONSERVAS</a></li>
+                <li><a href="#"><i class="fas fa-sliders-h"></i>LATICÍNIOS</a></li>
+                <li><a href="#"><i class="fas fa-sliders-h"></i>CONGELADOS</a></li>
+            </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <header class="showcase">
+    <div class="container showcase-inner">
+      <h1>Supermercado Aurora</h1>
+      <p>"Sua compra meu dinheiro"</p>
+      <a href="sobre.html" class="btn">veja nossas ofertas</a>
+    </div>
+
+  <img src="img/mamao.png">
+  <img src="img/bolacha bono chocolate.png">
+  <img src="img/laranja.png">
+  <img src="img/iorgute de Morango com Calda 150 g Nestle.png">
+</body>
+</html>
